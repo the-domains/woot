@@ -1,0 +1,28 @@
+name: Woot
+favicon: null
+layout_spectrum: 0.5614478690549731
+typography_spectrum: 0.16309036640450358
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5939236199483275
+  lightness: 0.3836462586186826
+  saturation: 0.12904228107072413
+  rhythmicContrast: 0.4861677868757397
+purpose: []
